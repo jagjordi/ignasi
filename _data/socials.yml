@@ -1,0 +1,9 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+cv_pdf: /assets/pdf/ignasi_sole_pinas_portfolio.pdf # path to your CV / portfolio PDF file
+email: ignasiphd@gmail.com # your email address
+linkedin_username: isole # LinkedIn username (linkedin.com/in/<username>)
+github_username: isolepinas # GitHub username
+# scholar_userid: # add your Google Scholar ID here to show the Scholar icon
+# orcid_id: # add your ORCID iD here to show the ORCID icon

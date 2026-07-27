@@ -1,0 +1,195 @@
+cv:
+  name: Ignasi Solé Piñas
+  label: Musicologist · Ph.D. in Empirical Performance Studies
+  email: ignasiphd@gmail.com
+  phone: +44 7927 946 976
+  location: London, United Kingdom
+  image: ""
+  summary: >
+    Musicologist working at the intersection of empirical performance studies, music historiography
+    and music education. Doctoral research on tempo, performance time and portamento in Beethoven's
+    piano and cello sonatas has yielded five preprints (2025–2026), a 346-page thesis, and an open
+    dataset and analysis code in Python and MATLAB. Ph.D. self-funded through over five years of
+    senior music leadership in UK independent schools.
+
+  social_networks:
+    - network: LinkedIn
+      username: isole
+    - network: GitHub
+      username: isolepinas
+
+  address:
+    city: London
+    postalCode: W13 0FD
+    countryCode: GB
+
+  sections:
+    Education:
+      - institution: University of Aberdeen
+        location: Aberdeen, United Kingdom
+        url: https://www.abdn.ac.uk/
+        area: Musicology
+        studyType: Ph.D.
+        start_date: 2021
+        end_date: 2025
+        highlights:
+          - "Thesis: <em>Tempo and Performance Style in Recordings of Beethoven's Cello Sonatas, 1930–2012</em> (346 pp.)."
+          - "Supervisor: Dr Jonathan Hicks."
+
+      - institution: Codarts University of the Arts, Rotterdam
+        location: Rotterdam, Netherlands
+        area: Cello Performance
+        studyType: Master's Degree
+        start_date: 2015
+        end_date: 2017
+        highlights:
+          - Awarded with distinction.
+
+      - institution: Liceu Conservatory of Barcelona
+        location: Barcelona, Spain
+        area: Cello Performance
+        studyType: Bachelor's Degree
+        start_date: 2011
+        end_date: 2015
+
+    Research Experience:
+      - company: University of Aberdeen
+        position: Independent Doctoral Researcher
+        location: Aberdeen, United Kingdom
+        start_date: 2021
+        end_date: 2025
+        summary: "Supervisor: Dr Jonathan Hicks."
+        highlights:
+          - Designed and executed a multi-year empirical research programme on tempo, performance time and portamento in Beethoven's five piano and cello sonatas — from research questions through methodology, data collection, analysis and writing.
+          - Assembled, digitised and annotated a corpus of over 100 commercial and archival recordings spanning 1930–2012 (Casals, Feuermann, Fournier, Piatigorsky, du Pré, Rostropovich, Shafran, Starker, Tortelier, Ma, Wispelwey, Bylsma, Maisky, Perényi, Kliegel, Isserlis and others).
+          - Developed an original manual bar-by-bar tempo-measurement protocol, characterised to millisecond resolution, after documenting the failure of automated beat-detection tools on polyphonic duo recordings.
+          - Implemented k-means clustering (scikit-learn, k-means++, 100 restarts) identifying three coexisting tempo traditions stable across eight decades; developed a spline-CDF smoothing method for histogram density estimation.
+          - Produced a five-tool visualisation suite (tempographs, histograms, ridgeline plots, stacked bar charts, combination charts) in Python and MATLAB, openly published on GitHub.
+
+      - company: KTH Royal Institute of Technology
+        position: Cross-Disciplinary Collaboration
+        location: Stockholm, Sweden
+        start_date: 2021
+        end_date: 2025
+        highlights:
+          - Collaborated with an engineer (VLSI design) on the mathematical framework, error model and data architecture of the tempo-measurement protocol.
+          - Built an open-access reproducible research pipeline in Python (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn) and MATLAB.
+
+    Teaching Experience:
+      - company: Notting Hill and Ealing High School (GDST)
+        position: Director of Music, Junior Department
+        location: London, United Kingdom
+        start_date: 2022-09
+        end_date: Present
+        highlights:
+          - Design and deliver a research-informed seven-year music curriculum for 300+ students (Reception–Year 6), integrating performance, analysis, composition and music technology.
+          - Lead and mentor a team of 15+ visiting instrumental teachers; manage budget, resource planning, safeguarding and assessment.
+          - Grew the instrumental programme to 134 students across 12+ instruments; achieved a 60% Distinction/Merit rate in ABRSM exams via an in-house low-stakes assessment model.
+          - Established a partnership with the Royal Opera House "Create and Dance" programme; directed performances at the Royal Albert Hall and Cadogan Hall.
+          - Mentor pre-university students preparing Oxbridge and conservatoire applications.
+
+      - company: St James Prep & The Falcons Pre-Prep School
+        position: Head of Music (concurrent roles)
+        location: London, United Kingdom
+        start_date: 2020-09
+        end_date: 2022-08
+        highlights:
+          - Led music provision across two independent schools (EYFS, KS1, KS2); redesigned the Prep curriculum around data-driven assessment.
+          - Reduced departmental expenditure at The Falcons by 50% over three years while maintaining quality of provision.
+
+      - company: Sistema Scotland & University of Aberdeen
+        position: Senior Music Educator, Strings Lead & Director of Orchestral Music
+        location: Aberdeen, United Kingdom
+        start_date: 2017-08
+        end_date: 2020-08
+        highlights:
+          - Delivered the Big Noise El Sistema programme to 600+ children weekly (Early Years–Year 9), with strings and vocal pedagogy rooted in ensemble work and social inclusion.
+          - Directed the University of Aberdeen Symphony and Chamber Orchestras; mentored undergraduate music-education placements.
+
+    Publications:
+      - title: "Towards Revised Tempo Indications for Beethoven's Piano and Cello Sonatas: Czerny, Moscheles, Kolisch, and Recorded Practice 1930–2012"
+        authors:
+          - Ignasi Solé Piñas
+        publisher: arXiv preprint (submit/7494591 [cs.SD])
+        releaseDate: 2026-04-18
+
+      - title: "Coexisting Tempo Traditions in Beethoven's Piano and Cello Sonatas: A K-means Clustering Analysis of Recorded Performances, 1930–2012"
+        authors:
+          - Ignasi Solé Piñas
+        publisher: arXiv preprint (submit/7492708 [cs.SD])
+        releaseDate: 2026-04-17
+
+      - title: "A Manual Bar-by-Bar Tempo Measurement Protocol for Polyphonic Chamber Music Recordings"
+        authors:
+          - Ignasi Solé Piñas
+        publisher: arXiv:2604.15278 [cs.SD]
+        url: https://arxiv.org/abs/2604.15278
+        releaseDate: 2026-04-16
+
+      - title: "A Complementary Visualisation Suite for Empirical Performance Analysis"
+        authors:
+          - Ignasi Solé Piñas
+        publisher: arXiv preprint (submit/7494267 [cs.SD])
+        releaseDate: 2026-04-18
+
+      - title: "Evolving Performance Practices in Beethoven's Cello Sonatas: Tempo, Portamento, and Historical Interpretation of the First Movements"
+        authors:
+          - Ignasi Solé Piñas
+        publisher: arXiv:2502.00030 [cs.SD]
+        url: https://arxiv.org/abs/2502.00030
+        releaseDate: 2025-01-23
+
+    Awards, Scholarships & Funding:
+      - title: Self-funded doctoral study
+        awarder: University of Aberdeen
+        date: 2021-2025
+        summary: Ph.D. research supported entirely through concurrent full-time school leadership work.
+      - title: Distinction, Master's Degree in Cello Performance
+        awarder: Codarts University of the Arts, Rotterdam
+        date: 2017
+      - title: Partial scholarship
+        awarder: Codarts University of the Arts, Rotterdam
+        date: 2015-2017
+      - title: Entrance scholarship
+        awarder: Liceu Conservatory of Barcelona
+        date: 2011
+
+    Skills:
+      - name: Programming & Data
+        icon: fa-solid fa-code
+        keywords: "Python (pandas, numpy, scipy, matplotlib, seaborn, scikit-learn), MATLAB, R, Stata, Jupyter, LaTeX, Git/GitHub"
+      - name: Audio & Score Analysis
+        icon: fa-solid fa-wave-square
+        keywords: "Sonic Visualiser, Audacity, Spleeter, GIMP (spectrogram analysis), Sibelius, Dorico, MuseScore"
+      - name: Methods
+        icon: fa-solid fa-chart-line
+        keywords: "Empirical performance analysis, tempo measurement, k-means clustering, data visualisation, spline-based density estimation, open-science / reproducible pipelines"
+
+    Languages:
+      - name: Catalan
+        summary: Native
+      - name: Spanish
+        summary: Native
+      - name: English
+        summary: Fluent (full professional proficiency)
+      - name: Italian
+        summary: Intermediate reading, basic spoken
+      - name: Mandarin
+        summary: Beginner
+      - name: Swedish
+        summary: Beginner
+
+    Professional Qualifications:
+      - name: National Professional Qualification for Senior Leadership (NPQSL)
+        icon: fa-solid fa-award
+      - name: Qualified Teacher Status (QTS)
+        icon: fa-solid fa-chalkboard-user
+      - name: Designated Safeguarding Lead, Level 3
+        icon: fa-solid fa-shield-halved
+      - name: Full Paediatric First Aid (current)
+        icon: fa-solid fa-kit-medical
+
+    References:
+      - name: Available on request
+        icon: fa-solid fa-user
+        reference: Principal Ph.D. supervisor Dr Jonathan Hicks (University of Aberdeen) and two additional referees can be contacted on request.
